@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(0,175,152,1) 100%);
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    
+}
+
+h1{
+    margin-top: 100px;
+    text-align: center;
+}
+.main{
+    margin: 60px auto;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+button{
+
+    margin-top: 10px;
+    height: 110px;
+    width: 110px;
+    margin-left: 10px;
+    border-radius: 8px;
+    border-color: #00af98;
+    cursor: pointer;
+
+}
+
+#b0{
+    background-image: url('/images/ant-man.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b1{
+    background-image: url('/images/winnie.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b2{
+    background-image: url('/images/scream.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b3{
+    background-image: url('/images/shazam.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b4{
+    background-image: url('/images/johnwick.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b5{
+    background-image: url('/images/mario.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b6{
+    background-image: url('/images/guardians.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b7{
+    background-image: url('/images/fast.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b8{
+    background-image: url('/images/spiderman.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b9{
+    background-image: url('/images/transformers.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b10{
+    background-image: url('/images/flash.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b11{
+    background-image: url('/images/indiana.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b12{
+    background-image: url('/images/mi7.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b13{
+    background-image: url('/images/oppenheimer.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b14{
+    background-image: url('/images/barbie.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b15{
+    background-image: url('/images/marvels.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b16{
+    background-image: url('/images/kraven.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b17{
+    background-image: url('/images/sawX.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b18{
+    background-image: url('/images/dune.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+#b19{
+    background-image: url('/images/aquaman.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+footer{
+    margin-top: 165px;
+    text-align: center;
+}

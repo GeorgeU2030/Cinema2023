@@ -1,0 +1,29 @@
+
+body{
+    background-color: #e52521;
+    background: radial-gradient(circle, #e52521 0%, #000000 100%);
+   font-family: 'Roboto Condensed', sans-serif;
+}
+
+.antman{
+    display: flex;
+    margin-top: 120px;
+    justify-content: center;
+    color: white;
+}
+.poster{
+    height: 330px;
+    width: 220px;
+    background-image: url('/images/poster9.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+iframe{
+    margin-left: 20px;
+}
+.backgr{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
